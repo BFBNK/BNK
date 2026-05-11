@@ -1,0 +1,35 @@
+SOURCE-AVAILABLE LICENSE
+Copyright (c) 2026 BF "BNK". All rights reserved.
+
+1. Permitted UsesPermission is hereby granted to any person obtaining a copy of this software to copy, run, and modify the software strictly for the following purposes:
+  - Testing, debugging, and security auditing.
+  - Preparing and submitting improvements, bug fixes, or new features (Contributions) to the original repository of this project.
+
+2. Prohibitions:
+  1. You may not use this software in a production environment (for actual charity operations or business).
+  2. You may not modify, distribute, sublicense, or sell the software or any portion of it.
+  3. You may not use the code to create a competing service or a derivative work.
+
+3. Attribution: The original copyright notice must remain in all copies of the software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+
+
+ЛИЦЕНЗИЯ
+
+Авторское право (с) 2026 Благотворительный фонд помощи малообеспеченным и нуждающимся "БУДЬ НА КАРТЕ". Все права защищены.
+
+1. Разрешенные действия: Любому лицу разрешается копировать, запускать и изменять данный код исключительно в целях:
+    - Тестирования, отладки и аудита безопасности.
+    - Подготовки предложений по улучшению кода (Pull Requests) в основной репозиторий проекта.
+
+2. Запреты:
+  1. Запрещено использовать данный код в рабочей среде (для реальных операций) без письменного согласия автора.
+  2. Запрещено распространять измененные версии кода как самостоятельный продукт (создавать форки для стороннего использования).
+  3. Запрещено использовать код (полностью или частично) в других коммерческих или некоммерческих проектах.
+
+3. Передача прав на вклад: Присылая изменения (Pull Request) в данный репозиторий, вы соглашаетесь передать автору неисключительное право
+на использование вашего вклада в рамках данного проекта.
+
+ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ».
