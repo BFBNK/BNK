@@ -227,8 +227,8 @@
 | Канал | Ссылка |
 |-------|--------|
 | 📧 Email | [info@bnk24.org](mailto:info@bnk24.org) |
-| 💬 Telegram | [Сообщество БНК](https://t.me/) |
-| 🌐 Сайт | [bnk24.org](https://bnk24.org) |
+| 💬 Telegram | [Сообщество БНК](https://t.me/bnk24dev) |
+| 🌐 Сайт | [bnk24.org](https://bnk24.ru) |
 | 🐙 GitHub | Вы здесь ✨ |
 
 </div>
