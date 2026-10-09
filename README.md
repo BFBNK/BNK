@@ -1,18 +1,20 @@
 <div align="center">
 
+<img src="./.github/assets/bnk-logo.png" alt="BNK Logo" width="120" height="120" />
+
 # 🗺️ Будь на карте (БНК)
 
 ### Социально-ориентированная платформа для производителей, покупателей и волонтёров
 
 [![Статус](https://img.shields.io/badge/статус-закрытый%20репозиторий-red?style=for-the-badge)](#-почему-код-закрыт)
-[![Лицензия](https://img.shields.io/badge/лицензия-proprietary-lightgrey?style=for-the-badge)](#-лицензия)
+[![Лицензия](https://img.shields.io/badge/лицензия-Source%20Available-orange?style=for-the-badge)](./LICENSE)
 [![Версия](https://img.shields.io/badge/версия-0.1.0--alpha-blue?style=for-the-badge)](#-статус-проекта)
 [![Nuxt](https://img.shields.io/badge/Nuxt-3-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)](https://nuxt.com/)
-[![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
 **Единая цифровая среда, где производители находят покупателей, а волонтёры — поддержку для своих инициатив.**
 
-[О проекте](#-о-проекте) • [Почему код закрыт](#-почему-код-закрыт) • [Как стать разработчиком](#-как-стать-разработчиком) • [Роадмап](#-роадмап)
+[О проекте](#-о-проекте) • [Почему код закрыт](#-почему-код-закрыт) • [Как стать разработчиком](#-как-стать-разработчиком) • [Роадмап](#-роадмап) • [Лицензия](#-лицензия)
 
 </div>
 
@@ -50,7 +52,7 @@
 - 📊 Данные о производителях, инициативах и волонтёрах
 - 🛡️ Сессии, токены и ключи аутентификации
 
-Поэтому перед тем как **открыть исходный код**, мы хотим провести **профессиональное ревью** и убедиться, что:
+Поэтому перед тем как **открыть исходный код для свободного использования**, мы хотим провести **профессиональное ревью** и убедиться, что:
 
 | ✅ Что проверяем | 🎯 Зачем |
 |-----------------|---------|
@@ -125,3 +127,156 @@
 ### 📝 Как подать заявку
 
 1. **Напишите нам** на [info@bnk24.org](mailto:info@bnk24.org) с темой: Хочу в команду разработки
+2. **Расскажите о себе**:
+- GitHub / GitLab профиль
+- Стек технологий, в котором вы сильны
+- Опыт участия в open-source или коммерческих проектах
+- Чем именно хотите помочь (ревью, разработка, безопасность, документация)
+3. **Пройдите короткое знакомство** — созвон на 20–30 минут, чтобы понять, подходим ли мы друг другу.
+4. **Получите доступ** — мы добавим вас в приватный репозиторий и обсудим первые задачи.
+
+> 💡 **Мы не требуем полной занятости.** Даже 2–4 часа в неделю — уже значимый вклад в развитие проекта.
+
+---
+
+## 🗺️ Роадмап
+
+**Ориентировочный план открытия кода:**
+
+| Этап | Что открывается | Условие |
+|------|----------------|---------|
+| 🥇 Этап 1 | Документация, схемы, публичные утилиты | После ревью безопасности |
+| 🥈 Этап 2 | Клиентская часть (Nuxt), UI-компоненты | После стабилизации API |
+| 🥉 Этап 3 | Публичный API и SDK | После аудита |
+| 🏆 Этап 4 | Полное ядро платформы | После 6+ месяцев стабильной работы |
+
+---
+
+## 🛠️ Стек технологий
+
+<div align="center">
+
+### Frontend
+![Nuxt](https://img.shields.io/badge/Nuxt-3-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-state-FFD859?style=flat-square)
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Sanctum-auth-FF2D20?style=flat-square)
+![Fortify](https://img.shields.io/badge/Fortify-2FA-FF2D20?style=flat-square)
+
+### Инфраструктура
+![Docker](https://img.shields.io/badge/Docker-container-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-proxy-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Наши ценности
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💚
+**Социальная миссия**
+
+Помогаем производителям и волонтёрам находить друг друга
+
+</td>
+<td align="center" width="25%">
+
+### 🔓
+**Открытость**
+
+Мы открываем код шаг за шагом и не скрываем цели
+
+</td>
+<td align="center" width="25%">
+
+### 🛡️
+**Безопасность**
+
+Данные пользователей — это святое
+
+</td>
+<td align="center" width="25%">
+
+### 🚀
+**Качество**
+
+Лучше медленнее, но правильно
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📞 Контакты
+
+<div align="center">
+
+| Канал | Ссылка |
+|-------|--------|
+| 📧 Email | [info@bnk24.org](mailto:info@bnk24.org) |
+| 💬 Telegram | [Сообщество БНК](https://t.me/) |
+| 🌐 Сайт | [bnk24.org](https://bnk24.org) |
+| 🐙 GitHub | Вы здесь ✨ |
+
+</div>
+
+---
+
+## 📄 Лицензия
+
+Проект распространяется под лицензией **SOURCE-AVAILABLE LICENSE**.
+
+### Что это значит?
+
+| ✅ Разрешено | ❌ Запрещено без письменного разрешения |
+|-------------|----------------------------------------|
+| 👀 Просматривать исходный код | 🚫 Использовать в коммерческих целях |
+| 📚 Изучать архитектуру и подходы | 🚫 Перепродавать или перераспространять код |
+| 🐛 Сообщать о найденных багах | 🚫 Создавать производные продукты |
+| 💡 Предлагать улучшения через PR | 🚫 Удалять или изменять копирайты и лицензию |
+| 🎓 Использовать в образовательных целях | 🚫 Разворачивать публичные форки без согласования |
+
+**Source-available** — это модель, при которой код **открыт для просмотра и изучения**, но **не является свободным** в понимании OSI. Полный текст лицензии доступен в файле [`LICENSE`](./LICENSE).
+
+### 📬 Хотите использовать код?
+
+Если вам нужно:
+- 🏢 **Внедрить платформу у себя** — напишите нам для обсуждения коммерческой лицензии
+- 🤝 **Участвовать в развитии** — подайте заявку в команду разработчиков (см. выше)
+- 📖 **Изучить архитектуру** — просматривайте код свободно в рамках лицензии
+
+Свяжитесь с нами: [info@bnk24.org](mailto:info@bnk24.org)
+
+---
+
+<div align="center">
+
+### 💌 Присоединяйтесь к команде!
+
+Мы ищем **профессиональных разработчиков**, которые помогут нам провести ревью и вместе открыть код для сообщества.
+
+**[✉️ Написать нам](mailto:info@bnk24.org?subject=%5BBNK%5D%20Хочу%20стать%20разработчиком)**
+
+---
+
+<img src="./.github/assets/bnk-logo.png" alt="BNK" width="40" height="40" />
+
+<sub>Сделано с ❤️ командой **Будь на карте**</sub>
+
+<sub>⭐ Поставьте звезду репозиторию, чтобы следить за развитием проекта</sub>
+
+</div>
+
