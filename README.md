@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./.github/assets/bnk-logo.png" alt="BNK Logo" width="120" height="120" />
+<img src="./.github/assets/logo.svg" alt="BNK Logo" width="120" height="120" />
 
 # 🗺️ Будь на карте (БНК)
 
@@ -272,7 +272,7 @@
 
 ---
 
-<img src="./.github/assets/bnk-logo.png" alt="BNK" width="40" height="40" />
+<img src="./.github/assets/logo.svg" alt="BNK" width="40" height="40" />
 
 <sub>Сделано с ❤️ командой **Будь на карте**</sub>
 
